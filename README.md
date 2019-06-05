@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/pnwjce/401-Lab-03)
-* [travis](https://www.travis-ci.com/pnwjce/401-Lab-14)
+* [travis](https://www.travis-ci.com/pnwjce/401-Lab-03)
 
 
 ### Modules
